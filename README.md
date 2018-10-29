@@ -1,6 +1,4 @@
 creating a new branch is quick.
 # ruida
-<<<<<<< HEAD
-=======
 creating a new branch is quick and simple.
->>>>>>> feature1
+zou mai cheng
